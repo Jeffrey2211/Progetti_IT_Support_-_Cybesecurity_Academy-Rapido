@@ -28,4 +28,4 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 Ecco il mio certificato Let's Defend:
 
-![Certificato Let's Defend](.png)
+![Certificato Let's Defend](Certificato_letsdefender_cybersecurity_for_students_path.png)
