@@ -23,3 +23,9 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 ### Gestione Ticket
 [![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1fmMrwOYCtUdjCRd42Ro7bQpL3BvceuBqJUcm1ieCahI/edit?usp=sharing)
 [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1fmMrwOYCtUdjCRd42Ro7bQpL3BvceuBqJUcm1ieCahI/export?format=pdf)
+
+## Certificati
+
+Ecco il mio certificato Let's Defend:
+
+![Certificato Let's Defend](.png)
