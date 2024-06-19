@@ -1,5 +1,7 @@
 # Progetti_IT_Support_-_Cybesecurity_Academy-Rapido
 
+Questo repository contiene documenti e risorse relativi ai progetti di IT Support e Cybersecurity realizzati durant il corso presso Academy - Rapido. Qui di seguito troverai i link per visualizzare i documenti su Google Docs e per scaricarli in formato PDF.
+
 ## Progetti Cybersecurity
 ### Risk Assessment
 [![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/edit?usp=sharing)
