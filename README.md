@@ -26,6 +26,6 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 ## Certificati
 
-Ecco il mio certificato Let's Defend:
+![Certificato Let's Defend](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/blob/main/Certificato_cybersecurity_operations_professional.jpeg)
 
 ![Certificato Let's Defend](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/blob/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
