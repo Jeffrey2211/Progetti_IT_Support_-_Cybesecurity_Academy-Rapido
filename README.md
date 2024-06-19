@@ -27,7 +27,13 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 ## Certificati
 
 ### Certificato Cybersecurity Operations Professional - ITHUM for humans
-![Certificato Cybersecurity Operations Professional](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/blob/main/Certificato_cybersecurity_operations_professional.png)
+![Certificato Cybersecurity Operations Professional](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_cybersecurity_operations_professional.png)
 
-### Certificato Cybersecurity for Students Path - letsdefend
+[Visualizza il certificato su Credential.net](https://www.credential.net/0e76ca68-f5b1-4bb0-86e5-c306ea82a486)
+
+
+### Certificato Ethical Hacker Essentials
+![Certificato Ethical Hacker Essentials](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Ethical_hacker_essentials.png)
+
+### Certificato Cybersecurity for Students Path - Let's Defend
 ![Certificato Let's Defend Cybersecurity for Students Path](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
