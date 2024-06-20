@@ -33,7 +33,6 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 [![Badge 5](https://www.credly.com/badges/16595456-9973-4389-914d-5d7aa84f7ac2/linked_in_profile)](https://www.credly.com/badges/16595456-9973-4389-914d-5d7aa84f7ac2/linked_in_profile)
 
 
-
 ## Certificati
 
 ### Certificato Cybersecurity Operations Professional - ITHUM for humans
