@@ -50,6 +50,4 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 
 ### Certificato Great Team Worker - Academy Rapido
-[![Certificato Great Team Worker](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_Great_Team_Worker.png)](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_Great_Team_Worker.png)
-
 [![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/5c3afbb5-5ce3-4af4-978a-fc1d3ceee9cf)
