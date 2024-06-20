@@ -39,7 +39,7 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 [![Visualizza Creddenziale su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-Blue?style=flat-square&logo=appveyor)](https://www.credential.net/0e76ca68-f5b1-4bb0-86e5-c306ea82a486)
 
-### Certificato Cisco IT Support & Cybersecurity - Academy Rapido
+### Certificato IT Support & Cybersecurity - Academy Rapido
 [![Visualizza credenziale su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/a622a31b-3d5a-48c5-8c5f-2f8c9333b36d)
 
 ### Certificato Ethical Hacker Essentials
