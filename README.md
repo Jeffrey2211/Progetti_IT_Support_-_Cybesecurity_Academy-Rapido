@@ -32,17 +32,17 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 [![Visualizza Creddenziale su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-Blue?style=flat-square&logo=appveyor)](https://www.credential.net/0e76ca68-f5b1-4bb0-86e5-c306ea82a486)
 
 ### Certificato Cisco IT Support & Cybersecurity - Academy Rapido
-[![Certificato IT Support & Cybersecurity](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/IT-Support-_-Cybersecurity.png)](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/blob/main/IT-Support-_-Cybersecurity.png)
+[![Certificato IT Support & Cybersecurity](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/IT-Support-_-Cybersecurity.png)](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/IT-Support-_-Cybersecurity.png)
 
 [![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/a622a31b-3d5a-48c5-8c5f-2f8c9333b36d)
 
 ### Certificato Great Team Worker - Academy Rapido
-[![Certificato Great Team Worker](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_Great_Team_Worker.png)](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/blob/main/Certificato_Great_Team_Worker.png)
+[![Certificato Great Team Worker](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_Great_Team_Worker.png)](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_Great_Team_Worker.png)
 
 [![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/5c3afbb5-5ce3-4af4-978a-fc1d3ceee9cf)
 
 ### Certificato Ethical Hacker Essentials
 ![Certificato Ethical Hacker Essentials](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Ethical_hacker_essentials.png)
 
-### Certificato Cybersecurity for Students Path - LetaDefend
+### Certificato Cybersecurity for Students Path - Let's Defend
 ![Certificato Let's Defend Cybersecurity for Students Path](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
