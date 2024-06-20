@@ -44,5 +44,5 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 ### Certificato Ethical Hacker Essentials
 ![Certificato Ethical Hacker Essentials](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Ethical_hacker_essentials.png)
 
-### Certificato Cybersecurity for Students Path - Let's Defend
+### Certificato Cybersecurity for Students Path - LetaDefend
 ![Certificato Let's Defend Cybersecurity for Students Path](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
