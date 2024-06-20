@@ -32,13 +32,13 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 [![Visualizza Creddenziale su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-Blue?style=flat-square&logo=appveyor)](https://www.credential.net/0e76ca68-f5b1-4bb0-86e5-c306ea82a486)
 
 ### Certificato Cisco IT Support & Cybersecurity - Academy Rapido
-[![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/a622a31b-3d5a-48c5-8c5f-2f8c9333b36d)
+[![Visualizza credenziale su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/a622a31b-3d5a-48c5-8c5f-2f8c9333b36d)
 
 ### Certificato Ethical Hacker Essentials
 ![Certificato Ethical Hacker Essentials](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Ethical_hacker_essentials.png)
 
 ### Certificato Cybersecurity for Students Path - LetaDefend
-![Certificato Let's Defend Cybersecurity for Students Path](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
+![Certificato LetsDefend Cybersecurity for Students Path](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
 
 
 ### Certificato Great Team Worker - Academy Rapido
