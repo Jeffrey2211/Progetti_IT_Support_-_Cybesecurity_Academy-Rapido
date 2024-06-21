@@ -22,6 +22,7 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 ## Certificati
 
+### Certificato IT Support & Cybersecurity - Academy Rapido
 | Certificato IT Support & Cybersecurity - Academy Rapido | Certificato Great Team Worker - Academy Rapido |
 |:--------------------------------------------------------:|:----------------------------------------------:|
 | [![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/a622a31b-3d5a-48c5-8c5f-2f8c9333b36d) | [![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/5c3afbb5-5ce3-4af4-978a-fc1d3ceee9cf) |
@@ -34,10 +35,6 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 ### Certificato Ethical Hacker Essentials
 ![Certificato Ethical Hacker Essentials](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Ethical_hacker_essentials.png) 
-
-### Certificato IT Support & Cybersecurity - Academy Rapido
-
-
 
 ### Certificato Cybersecurity for Students Path - LetaDefend
 ![Certificato LetsDefend Cybersecurity for Students Path](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
