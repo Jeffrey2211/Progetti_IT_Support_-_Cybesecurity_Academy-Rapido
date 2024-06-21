@@ -22,9 +22,14 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 ## Certificati
 
+| Certificato IT Support & Cybersecurity - Academy Rapido | Certificato Great Team Worker - Academy Rapido |
+|:--------------------------------------------------------:|:----------------------------------------------:|
+| [![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/a622a31b-3d5a-48c5-8c5f-2f8c9333b36d) | [![Visualizza il certificato su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-blue?style=flat-square)](https://www.credential.net/5c3afbb5-5ce3-4af4-978a-fc1d3ceee9cf) |
+
+
 | Certificato Cybersecurity Operations Professional - ITHUM for humans | Certificato Ethical Hacker Essentials |
 |:---------------------------------------------------------------------:|:-----------------------------------:|
-| [![Certificato Cybersecurity Operations Professional](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_cybersecurity_operations_professional.png)](https://www.credential.net/0e76ca68-f5b1-4bb0-86e5-c306ea82a486) | [![Certificato Ethical Hacker Essentials](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Ethical_hacker_essentials.png)](https://www.credential.net/2d8e0d7a-81bf-4a0d-9d97-6d7b1ef775d2) |
+| [![Certificato Cybersecurity Operations Professional](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_cybersecurity_operations_professional.png)](https://www.credential.net/0e76ca68-f5b1-4bb0-86e5-c306ea82a486)[![Visualizza Creddenziale su Credential.net](https://img.shields.io/badge/Visualizza%20il%20certificato-Blue?style=flat-square&logo=appveyor)](https://www.credential.net/0e76ca68-f5b1-4bb0-86e5-c306ea82a486) | [![Certificato Ethical Hacker Essentials](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Ethical_hacker_essentials.png)](https://www.credential.net/2d8e0d7a-81bf-4a0d-9d97-6d7b1ef775d2) |
 
 
 ### Certificato Cybersecurity for Students Path - LetaDefend
