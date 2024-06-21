@@ -6,7 +6,7 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 | Risk Assessment | Incident Handling | Infrastruttura di Rete |
 |:----------------:|:-----------------:|:----------------------:|
 | [![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/edit?usp=sharing) [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/export?format=pdf) | [![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1n7zi6aGeEuR35FbRuFjcMvj6jMgFy0-H/edit?usp=sharing&ouid=111279600520310887389&rtpof=true&sd=true) [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1n7zi6aGeEuR35FbRuFjcMvj6jMgFy0-H/export?format=pdf) | [![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1-HPeXYh-hAEBL4x16XBTrq3w74_pTL8P6YUz3nR9PKM/edit?usp=sharing) [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1-HPeXYh-hAEBL4x16XBTrq3w74_pTL8P6YUz3nR9PKM/export?format=pdf) |
-
+[![CCNA: Introduction to Network](https://img.shields.io/badge/CCNA-Introduction%20to%20Network-lightblue)](https://www.credly.com/badges/05d356da-6d13-40ad-bf86-0c22cef4c2c4/linked_in_profile)
 ## Progetti IT Support
 
 | Troubleshooting | Gestione Ticket |
