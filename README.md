@@ -5,9 +5,7 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 ## Progetti Cybersecurity
 ### Risk Assessment
 [![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/edit?usp=sharing)
-[![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/export?format=pdf)
-
-### Incident Handling
+[![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/export?format=pdf)### Incident Handling
 [![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1n7zi6aGeEuR35FbRuFjcMvj6jMgFy0-H/edit?usp=sharing&ouid=111279600520310887389&rtpof=true&sd=true)
 [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1n7zi6aGeEuR35FbRuFjcMvj6jMgFy0-H/export?format=pdf)
 
@@ -48,18 +46,3 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 ### Certificato Cybersecurity for Students Path - LetaDefend
 ![Certificato LetsDefend Cybersecurity for Students Path](https://github.com/Jeffrey2211/Progetti_IT_Support_-_Cybesecurity_Academy-Rapido/raw/main/Certificato_letsdefender_cybersecurity_for_students_path.PNG)
-
-# Documenti di Riferimento
-
-## Risk Assessment
-
-[![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/edit?usp=sharing) [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1ORkj7T1Tc9shdNFpS_kKGH9CEf-nfQVJnNYZ8DYJHGo/export?format=pdf)
-
-## Incident Handling
-
-[![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1n7zi6aGeEuR35FbRuFjcMvj6jMgFy0-H/edit?usp=sharing&ouid=111279600520310887389&rtpof=true&sd=true) [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1n7zi6aGeEuR35FbRuFjcMvj6jMgFy0-H/export?format=pdf)
-
-## Infrastruttura di Rete
-
-[![Visualizza il documento](https://img.shields.io/badge/Visualizza%20il%20documento-blue?style=flat-square)](https://docs.google.com/document/d/1-HPeXYh-hAEBL4x16XBTrq3w74_pTL8P6YUz3nR9PKM/edit?usp=sharing) [![Scarica il PDF](https://img.shields.io/badge/Scarica%20il%20PDF-red?style=flat-square)](https://docs.google.com/document/d/1-HPeXYh-hAEBL4x16XBTrq3w74_pTL8P6YUz3nR9PKM/export?format=pdf)
-
