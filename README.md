@@ -19,8 +19,6 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 [![CCNA: Introduction to Network](https://img.shields.io/badge/CCNA-Introduction%20to%20Network-lightblue)](https://www.credly.com/badges/05d356da-6d13-40ad-bf86-0c22cef4c2c4/linked_in_profile) [![Networking Essentials](https://img.shields.io/badge/Networking-Essentials-orange)](https://www.credly.com/badges/ddd72cc7-c60e-49db-83c6-d2d798191505/linked_in_profile) [![IT Essentials](https://img.shields.io/badge/IT-Essentials-red)](https://www.credly.com/badges/d0d36eb3-25b8-4b01-9d35-108e84376372/linked_in_profile)
 
-[![CCNA: Introduction to Network](https://img.shields.io/badge/CCNA-Introduction%20to%20Network-lightblue)](https://www.credly.com/badges/05d356da-6d13-40ad-bf86-0c22cef4c2c4/linked_in_profile)
-
 ## Certificati
 
 | Certificato IT Support & Cybersecurity - Academy Rapido | Certificato Great Team Worker - Academy Rapido |
