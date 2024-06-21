@@ -15,7 +15,7 @@ Questo repository contiene documenti e risorse relativi ai progetti di IT Suppor
 
 ## Badge
 
-[![CyberOps Badge](https://img.shields.io/badge/Cisco%20CyberOps-Verified-brightgreen)](https://www.credly.com/badges/16595456-9973-4389-914d-5d7aa84f7ac2/linked_in_profile) [![CCNA: Routing and Switching](https://img.shields.io/badge/CCNA-Routing%20and%20Switching-blue)](https://www.credly.com/badges/0bf6bf48-0c5c-47f9-8ad1-0ebaae8963e1/public_url)
+[![CyberOps Badge](https://img.shields.io/badge/Cisco%20CyberOps-Verified-brightgreen)](https://www.credly.com/badges/16595456-9973-4389-914d-5d7aa84f7ac2/linked_in_profile) [![CCNA: Routing and Switching](https://img.shields.io/badge/CCNA-Routing%20and%20Switching-blue)](https://www.credly.com/badges/0bf6bf48-0c5c-47f9-8ad1-0ebaae8963e1/public_url)[![Verified](https://img.shields.io/badge/Verified-green)](https://www.credly.com/badges/05d356da-6d13-40ad-bf86-0c22cef4c2c4/linked_in_profile)
 
 [![CCNA: Introduction to Network](https://img.shields.io/badge/CCNA-Introduction%20to%20Network-lightblue)](https://www.credly.com/badges/05d356da-6d13-40ad-bf86-0c22cef4c2c4/linked_in_profile) [![Networking Essentials](https://img.shields.io/badge/Networking-Essentials-orange)](https://www.credly.com/badges/ddd72cc7-c60e-49db-83c6-d2d798191505/linked_in_profile) [![IT Essentials](https://img.shields.io/badge/IT-Essentials-red)](https://www.credly.com/badges/d0d36eb3-25b8-4b01-9d35-108e84376372/linked_in_profile)
 
